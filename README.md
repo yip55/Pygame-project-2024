@@ -1,5 +1,5 @@
 # pygame project
-# progamming level 1
+## progamming level 1
 
 the final pygame project for SLSS programming
 
